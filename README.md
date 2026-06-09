@@ -59,4 +59,4 @@ Example 1-Power BI Dashboard-![Power BI Dasboard Preview](https://github.com/uda
 
 Example 2-Excel Dashboard-![Excel Dashboard Preview](https://github.com/udayakumarchikkalaki/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Excel%20Dashboard.png)
 
-Example 3-Tableau Dashboard-![Tableau Dashboard Preview]
+Example 3-Tableau Dashboard-![Tableau Dashboard Preview](https://github.com/udayakumarchikkalaki/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Tableau%20Dashboard.png)
