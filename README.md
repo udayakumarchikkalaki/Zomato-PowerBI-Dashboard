@@ -28,6 +28,7 @@ Table Booking
 Restaurant Type
 
 5. Features / Highlights
+
 📊 Business Problem
 Analyze restaurant data to identify customer preferences, market trends, and factors influencing restaurant success.
 
@@ -38,6 +39,7 @@ Customer rating analysis
 Online delivery and table booking trends
 Average cost analysis
 Restaurant growth patterns
+
 📈 Dashboard Features
 Interactive filters and slicers
 KPI cards and summary metrics
