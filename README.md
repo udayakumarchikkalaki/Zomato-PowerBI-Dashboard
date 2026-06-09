@@ -74,6 +74,6 @@ Enables market trend analysis for restaurant businesses.
 Improves understanding of restaurant industry dynamics.
 
 6.Screenshots/Demos
-Show what the dashboard looks like -![Dashboard Screenshot](image-file-name.png)
+Show what the dashboard looks like -
 
-Example-https://github.com/udayakumarchikkalaki/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
+Example-![Dasboard Preview](https://github.com/udayakumarchikkalaki/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
