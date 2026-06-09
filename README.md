@@ -57,4 +57,4 @@ Show what the dashboard looks like-
 
 Example-![Power BI Dasboard Preview](https://github.com/udayakumarchikkalaki/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
-Example-2-![Excel Dashboard Preview]
+Example-2-![Excel Dashboard Preview](https://github.com/udayakumarchikkalaki/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Excel%20Dashboard.png)
