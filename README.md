@@ -55,4 +55,6 @@ Provided data-driven insights for business decision-making
 6.Screenshots/Demos
 Show what the dashboard looks like-
 
-Example-![Dasboard Preview](https://github.com/udayakumarchikkalaki/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+Example-![Power BI Dasboard Preview](https://github.com/udayakumarchikkalaki/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+
+Example-2-![Excel Dashboard Preview]
