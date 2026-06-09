@@ -1,79 +1,58 @@
 # Zomato-PowerBI-Dashboard
 1. Project Title
-
-Zomato Restaurant Analytics Dashboard | Power BI
+   
+Zomato Restaurant Analysis | End-to-End Data Analytics Project
 
 2. Short Description / Purpose
-
-This project presents an interactive Zomato Restaurant Analytics Dashboard developed using Power BI to analyze restaurant data across multiple countries, cities, cuisines, ratings, and pricing categories. The dashboard provides valuable insights into restaurant distribution, cuisine popularity, online delivery availability, table booking trends, customer ratings, and average dining costs.
-
-The primary objective of this project is to help stakeholders, restaurant owners, and business analysts understand customer preferences and restaurant market trends through data-driven visualizations and interactive reporting.
+This project aims to analyze the Zomato restaurant dataset to uncover valuable business insights about restaurant performance, customer preferences, cuisines, ratings, online delivery services, and geographical trends.
+The project demonstrates an end-to-end data analytics workflow using multiple tools to transform raw data into meaningful visualizations and actionable insights.
 
 3. Tech Stack
-Power BI Desktop – Data Visualization & Dashboard Development
-Power Query – Data Cleaning and Transformation
-DAX (Data Analysis Expressions) – Measures and Calculations
-Microsoft Excel / CSV – Data Source Management
-GitHub – Project Version Control and Documentation
+SQL – Data cleaning and exploratory data analysis
+Excel – Data processing and dashboard creation
+Power BI – Interactive business intelligence dashboard
+Tableau – Data visualization and storytelling
+GitHub – Project documentation and portfolio management
 
 4. Data Source
-
-The dataset used for this project is based on Zomato Restaurant Data, containing information about:
-
-Restaurant Names
-Countries and Cities
-Cuisine Types
+Dataset: Zomato Restaurant Dataset
+Source: Publicly available dataset (Kaggle/Zomato dataset)
+Data Includes:
+Restaurant Name
+Country & City
+Cuisines
+Ratings
 Average Cost for Two
-Customer Ratings
-Online Delivery Availability
-Table Booking Availability
-Restaurant Opening Year
-Restaurant Categories
-
-The dataset enables comprehensive analysis of restaurant performance and customer service trends across different regions.
+Online Delivery
+Table Booking
+Restaurant Type
 
 5. Features / Highlights
-📊 Business Problem Solved
-Identifies the most popular cuisines and restaurant categories.
-Analyzes restaurant distribution across countries and cities.
-Evaluates customer satisfaction using rating analysis.
-Examines the impact of online delivery and table booking services.
-Tracks restaurant growth trends over time.
-📈 Dashboard Insights
-Total Restaurants Analysis (9,551+ restaurants)
-Country-wise and City-wise Restaurant Distribution
-Cuisine Category Breakdown
-Rating Distribution Analysis
-Average Cost for Two Analysis
-Restaurant Opening Trend (Year-wise)
-Online Delivery Availability Analysis
-Table Booking Availability Analysis
-🎯 Interactive Features
-Dynamic Filters and Slicers
-Restaurant Opening Year
-Cuisine Type
-Country & City
-Rating
-Average Cost Range
-Drill-down Functionality
-Interactive Navigation Between Visuals
-Responsive KPI Cards and Charts
-📌 Key KPIs
-Total Restaurant Count
-Cuisine-wise Restaurant Count
-Rating Bucket Distribution
-Average Cost for Two
-Online Delivery Percentage
-Table Booking Percentage
-Restaurant Opening Trends
-🚀 Business Value
-Supports data-driven decision making.
-Helps identify high-performing cuisines and regions.
-Provides insights into customer service preferences.
-Enables market trend analysis for restaurant businesses.
-Improves understanding of restaurant industry dynamics.
+📊 Business Problem
+Analyze restaurant data to identify customer preferences, market trends, and factors influencing restaurant success.
+
+🔍 Key Analysis
+Restaurant distribution across countries and cities
+Cuisine-wise performance analysis
+Customer rating analysis
+Online delivery and table booking trends
+Average cost analysis
+Restaurant growth patterns
+📈 Dashboard Features
+Interactive filters and slicers
+KPI cards and summary metrics
+Dynamic charts and visualizations
+Comparative analysis across locations
+User-friendly dashboard design
+
+💡 Business Insights
+Identified the most popular cuisines and restaurant locations.
+Analyzed customer satisfaction through ratings.
+Evaluated the impact of online delivery and table booking services.
+Highlighted pricing trends and restaurant distribution patterns.
+Provided data-driven insights for business decision-making
 
 6.Screenshots/Demos
-Show what the dashboard looks like -
+Show what the dashboard looks like-
 
 Example-![Dasboard Preview](https://github.com/udayakumarchikkalaki/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
